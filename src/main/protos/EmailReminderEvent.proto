@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+package org.shared;
+
+import "google/protobuf/timestamp.proto";
+option java_outer_classname = "EmailReminderEventWrapper";
+option optimize_for = SPEED;
+
+message EmailReminderEvent {
+  string userEmail = 1;
+  google.protobuf.Timestamp createDate = 5;
+}

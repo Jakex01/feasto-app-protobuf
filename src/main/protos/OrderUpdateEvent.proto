@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+package org.shared;
+
+import "OrderStatus.proto";
+
+option java_outer_classname = "OrderUpdateEventWrapper";
+option optimize_for = SPEED;
+
+message OrderUpdateEvent {
+  int64 orderId = 1;
+  OrderStatus orderStatus = 2;
+}

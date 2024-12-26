@@ -1,0 +1,44 @@
+
+–
+java:S2293µ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ˆê©­J$560a19ca-8875-40ea-94a0-fdd0b6be7c92
+q
+java:S1066ê"/Merge this if statement with the enclosing one.(ì–ÂøÿÿÿÿJ$dc573883-050c-4ed6-9461-2bc97bbe1296
+	java:S117¹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆÓ¡€J$6456f193-27f1-4033-83ea-2e721c00de70
+’	java:S117½"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹¤¢öøÿÿÿÿJ$c26ac028-0ef7-4eaf-bb85-7c8997713b84
+i
+java:S1604c"(Make this anonymous inner class a lambda(…ÇŞùÿÿÿÿJ$9453b061-a3bc-4dd4-97ba-084b419a6f88
+›
+java:S1488æ"_Immediately return this expression instead of assigning it to the temporary variable "builder".(«‰Ÿ~J$e2684e89-9cac-4da5-9b8e-37433ddd2815
+Â
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ƒ°‡ıÿÿÿÿJ$183fa0fb-62b5-4cdd-ba04-20066e18c80c
+p
+java:S1172"/Remove this unused method parameter "registry".(•óÊõÿÿÿÿÿJ$5161fa20-f18f-4510-b025-76d887b19adc
+q
+java:S1133M"5Do not forget to remove this deprecated code someday.(ØÑŸéJ$d2191b97-d533-4dd5-8f6e-b200a5a711fa
+c
+java:S1123M"'Add the missing @Deprecated annotation.(ØÑŸéJ$aa516f37-e785-4deb-ad26-ecefcb07abfd
+‘	java:S116á"URename this field "bitField0_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö»³ÄJ$0ce61980-b46a-46ca-9e47-fe5b7a0d5d61
+”	java:S116ã"XRename this field "restaurantId_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–ÿ½“J$055d1013-bcde-4bcc-baed-8d5bf5f2242c
+–	java:S116î"URename this field "orderDate_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š›¶æùÿÿÿÿJ$cb5567c0-8737-4765-b5bf-d23913a9ee6c
+’	java:S116ˆ"VRename this field "totalPrice_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñÆ­ìJ$9e1c31ea-8d9c-4011-a3ec-a68079ba048a
+–	java:S116“"ZRename this field "deliveryOption_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·îµÌJ$2b8b937d-722d-4607-9f2a-371aaff3b90e
+Ÿ
+java:S4144Á"cUpdate this method so that its implementation is not identical to "getDefaultInstance" on line 925.(ŸXJ$f02499ee-1cc3-402e-aa82-d87b39155b43
+}
+java:S1126ñ"AReplace this if-then-else statement by a single return statement.(ûÿ½%J$54240971-9229-4506-a1d9-3b6df0566bff
+
+java:S3252å"QUse static access with "com.google.protobuf.AbstractMessage" for "BuilderParent".(ÔÈı¾J$ce08d689-4b1a-48c3-a59e-53e089595a2c
+‘	java:S116¤"URename this field "bitField0_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö»³ÄJ$b7729829-4ed4-41b9-9399-8854c6a7bb17
+”	java:S116¦"XRename this field "restaurantId_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“¨Ã¶J$1003bf07-bf45-44d6-ac7a-23316d2b7820
+–	java:S116Æ"URename this field "orderDate_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š›¶æùÿÿÿÿJ$9b2f0cb2-019b-4c94-b54c-65352a4d0af8
+˜	java:S116È"\Rename this field "orderDateBuilder_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åó¸ìJ$50e3eb70-11d4-4c96-ab26-e2f860bd9819
+—	java:S116¿"VRename this field "totalPrice_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İÓîËıÿÿÿÿJ$012afaec-196b-46a4-815d-5a462ff2f75b
+–	java:S116ß"ZRename this field "deliveryOption_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·îµÌJ$3898dd3f-1aed-4189-943c-533995756e0f
+
+java:S3252ƒ"QUse static access with "com.google.protobuf.AbstractMessage" for "BuilderParent".(ÔÈı¾J$5182ae84-86e2-4698-8301-653dff006f0c
+•
+java:S6201Ï"XReplace this instanceof check and cast with 'instanceof StatisticsEvent statisticsevent'(»°é…J$304a96ae-207e-4882-af4e-036b9eb379e3
+}	java:S125›"<This block of commented-out lines of code should be removed.(““ùûÿÿÿÿJ$96de7ae6-26e4-4b01-958d-a103df866e71
+x	java:S125œ"<This block of commented-out lines of code should be removed.(¯Ë¶‡J$3716eb6b-8dca-4039-ac69-fcc931e4900a
+t
+java:S6126Õ"2Replace this String concatenation with Text block.(ô¨ìÔûÿÿÿÿJ$69436841-25f4-4b7a-a4b6-174de7a1d164

@@ -1,0 +1,39 @@
+
+	java:S117ö"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆÓ¡€J$eabbc4e5-3dd5-4568-a7a9-7ab6507630f6
+›
+java:S1488¯"_Immediately return this expression instead of assigning it to the temporary variable "builder".(«‰Ÿ~J$37204c68-8a31-4d44-8777-bc5604ea7e64
+Â
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ƒ°‡ıÿÿÿÿJ$b7a77c6e-29bb-4a64-ab64-aef61ce292cd
+p
+java:S1172"/Remove this unused method parameter "registry".(•óÊõÿÿÿÿÿJ$1642d5b9-9a7c-4c66-ab3b-217f2c999751
+‘	java:S116["QRename this field "email_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤Ã¸ÖúÿÿÿÿJ$3f631ab9-be19-4cd8-9c65-edca0fbd9741
+—	java:S116"VRename this field "pdfContent_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä—ä¹üÿÿÿÿJ$e342c5e5-c0f8-4b44-89f2-d62e5213c5c1
+¥
+java:S4144İ"cUpdate this method so that its implementation is not identical to "getDefaultInstance" on line 569.(¾ÙÄ»ıÿÿÿÿJ$09cfc667-832a-4403-813a-f4739e278ba7
+i
+java:S1948["(Make "email_" transient or serializable.(¤Ã¸ÖúÿÿÿÿJ$56071163-ddc3-4227-8c98-c385521d95cf
+˜
+java:S3077["WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(¤Ã¸ÖúÿÿÿÿJ$69a29347-38b8-4919-b4af-44861a0775e4
+‡
+java:S6201c"FReplace this instanceof check and cast with 'instanceof String string'(õõáÀÿÿÿÿÿJ$5c64321a-44a5-4cef-8b26-6eab9020beac
+‡
+java:S6201u"FReplace this instanceof check and cast with 'instanceof String string'(õõáÀÿÿÿÿÿJ$510f6e8a-55a8-4e3e-a1a9-aa7ef3a3a1d6
+}
+java:S1126Â"AReplace this if-then-else statement by a single return statement.(ûÿ½%J$db54888f-f674-40e1-9479-a401be5beade
+
+java:S3252®"QUse static access with "com.google.protobuf.AbstractMessage" for "BuilderParent".(ÔÈı¾J$cc5c3b31-8938-40b5-98f3-12dd933ecdd0
+‘	java:S116Æ"URename this field "bitField0_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö»³ÄJ$91886a03-c978-4913-ae4f-0587f617f39c
+	java:S116È"QRename this field "email_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’ò¹ØJ$5b6ffe89-2651-4a7b-a08f-ff2aa0ef5105
+—	java:S116"VRename this field "pdfContent_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä—ä¹üÿÿÿÿJ$aef871a7-7e43-4ccb-bdbf-bf670caf1c8c
+
+java:S3252Ì"QUse static access with "com.google.protobuf.AbstractMessage" for "BuilderParent".(ÔÈı¾J$6756a8a0-a06f-420a-8d16-e0437a10048d
+™
+java:S6201"\Replace this instanceof check and cast with 'instanceof NotificationEvent notificationevent'(ÎéÈ¾J$97a72c93-563f-4714-8dfd-89141512abab
+}	java:S125½"<This block of commented-out lines of code should be removed.(““ùûÿÿÿÿJ$1d8abc2d-a6cb-47b8-8e59-5154d6eb7d37
+x	java:S125¾"<This block of commented-out lines of code should be removed.(¯Ë¶‡J$ecbd5fc0-bade-485d-89e0-b99dd3630df3
+ˆ
+java:S6201Ï"FReplace this instanceof check and cast with 'instanceof String string'(Á¿Ö¨üÿÿÿÿJ$4c22efeb-0a90-46ec-8da3-4f28be030e27
+ƒ
+java:S6201à"FReplace this instanceof check and cast with 'instanceof String string'(‡ñ÷J$8885fb99-8237-4d1f-8384-462524b6b009
+o
+java:S6126ñ"2Replace this String concatenation with Text block.(£“ÍşJ$fa56d4fa-4be8-4cff-8f8a-241e5ff450ef

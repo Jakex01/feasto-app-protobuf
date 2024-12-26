@@ -1,0 +1,101 @@
+
+u
+java:S2293¯"YReplace the type specification in this constructor call with the diamond operator ("<>").(‚…‚Ïüÿÿÿÿ
+p
+java:S2293¨"YReplace the type specification in this constructor call with the diamond operator ("<>").(±°ïÑ
+“
+java:S1192m"xDefine a constant instead of duplicating this literal "Can't get the descriptor of an unrecognized enum value." 3 times.(ƒÖŸ¿øÿÿÿÿ
+
+java:S1192€"jDefine a constant instead of duplicating this literal "EnumValueDescriptor is not for this type." 3 times.(ĞŒÛ„
+…
+java:S1192B"oDefine a constant instead of duplicating this literal "Can't get the number of an unknown enum value." 3 times.(İÅÄÆ
+K
+java:S1066ß"/Merge this if statement with the enclosing one.(èú¯úÿÿÿÿ
+F
+java:S1066ä"/Merge this if statement with the enclosing one.(‡¡‘
+g	java:S117×"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆÓ¡€
+l	java:S117ä"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹¤¢öøÿÿÿÿ
+C
+java:S1604c"(Make this anonymous inner class a lambda(ò¬©öøÿÿÿÿ
+?
+java:S1604á"(Make this anonymous inner class a lambda(òÍ×Ú
+D
+java:S1604Ö"(Make this anonymous inner class a lambda(…ÇŞùÿÿÿÿ
+u
+java:S1488ø"_Immediately return this expression instead of assigning it to the temporary variable "builder".(«‰Ÿ~
+œ
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ƒ°‡ıÿÿÿÿ
+J
+java:S1172"/Remove this unused method parameter "registry".(•óÊõÿÿÿÿÿ
+K
+java:S1133M"5Do not forget to remove this deprecated code someday.(™úŸı
+=
+java:S1123M"'Add the missing @Deprecated annotation.(™úŸı
+K
+java:S1133Ê"5Do not forget to remove this deprecated code someday.(ä»Ş7
+=
+java:S1123Ê"'Add the missing @Deprecated annotation.(ä»Ş7
+L
+java:S1133À"5Do not forget to remove this deprecated code someday.(ØÑŸé
+>
+java:S1123À"'Add the missing @Deprecated annotation.(ØÑŸé
+k	java:S116š"URename this field "bitField0_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö»³Ä
+d	java:S116œ"NRename this field "id_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëâ«
+n	java:S116§"XRename this field "restaurantId_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–ÿ½“
+n	java:S116²"SRename this field "orderId_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Úº†Úıÿÿÿÿ
+p	java:S116¾"URename this field "userEmail_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô“Ûõüÿÿÿÿ
+q	java:S116ä"VRename this field "createDate_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛºĞÎıÿÿÿÿ
+s	java:S116ş"XRename this field "finishedDate_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’îìøÿÿÿÿ
+l	java:S116˜"VRename this field "totalPrice_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñÆ­ì
+„	java:S116£"iRename this field "expectedDeliveryTimeInMinutes_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù²üãüÿÿÿÿ
+m	java:S116®"WRename this field "orderStatus_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı¨“Œ
+o	java:S116À"YRename this field "paymentStatus_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£ƒÇ
+p	java:S116Ò"ZRename this field "deliveryOption_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·îµÌ
+€
+java:S4144¾"dUpdate this method so that its implementation is not identical to "getDefaultInstance" on line 1946.(¾£ñ­ıÿÿÿÿ
+H
+java:S1948¾",Make "userEmail_" transient or serializable.(Ô“Ûõüÿÿÿÿ
+s
+java:S3077¾"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(Ô“Ûõüÿÿÿÿ
+b
+java:S6201Æ"FReplace this instanceof check and cast with 'instanceof String string'(õõáÀÿÿÿÿÿ
+b
+java:S6201Ø"FReplace this instanceof check and cast with 'instanceof String string'(õõáÀÿÿÿÿÿ
+W
+java:S1126ğ"AReplace this if-then-else statement by a single return statement.(ûÿ½%
+h
+java:S3252÷"QUse static access with "com.google.protobuf.AbstractMessage" for "BuilderParent".(ÔÈı¾
+k	java:S116–
+"URename this field "bitField0_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö»³Ä
+i	java:S116˜
+"NRename this field "id_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±¹±•ûÿÿÿÿ
+n	java:S116¸
+"XRename this field "restaurantId_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“¨Ã¶
+n	java:S116Ø
+"SRename this field "orderId_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤òíèşÿÿÿÿ
+p	java:S116ø
+"URename this field "userEmail_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú¨Š™şÿÿÿÿ
+q	java:S116À"VRename this field "createDate_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛºĞÎıÿÿÿÿ
+x	java:S116Â"]Rename this field "createDateBuilder_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒÆôÏıÿÿÿÿ
+s	java:S116¹"XRename this field "finishedDate_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’îìøÿÿÿÿ
+u	java:S116»"_Rename this field "finishedDateBuilder_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒºÆÇ
+q	java:S116²"VRename this field "totalPrice_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İÓîËıÿÿÿÿ
+	java:S116Ò"iRename this field "expectedDeliveryTimeInMinutes_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ªŒŠ
+m	java:S116ò"WRename this field "orderStatus_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı¨“Œ
+o	java:S116§"YRename this field "paymentStatus_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£ƒÇ
+p	java:S116Ü"ZRename this field "deliveryOption_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·îµÌ
+h
+java:S3252•"QUse static access with "com.google.protobuf.AbstractMessage" for "BuilderParent".(ÔÈı¾
+n
+java:S6201…	"XReplace this instanceof check and cast with 'instanceof StatisticsEvent statisticsevent'(Ë†¶,
+W	java:S125
+"<This block of commented-out lines of code should be removed.(““ùûÿÿÿÿ
+R	java:S125
+"<This block of commented-out lines of code should be removed.(¯Ë¶‡
+b
+java:S6201ÿ
+"FReplace this instanceof check and cast with 'instanceof String string'(Á¿Ö¨üÿÿÿÿ
+]
+java:S6201"FReplace this instanceof check and cast with 'instanceof String string'(‡ñ÷
+N
+java:S6126Ò"2Replace this String concatenation with Text block.(ô¨ìÔûÿÿÿÿ

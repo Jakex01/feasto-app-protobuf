@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+package org.shared;
+option java_outer_classname = "PaymentEventWrapper";
+option optimize_for = SPEED;
+
+message PaymentEvent {
+  string userEmail = 1;
+  int64 orderId = 2;
+}

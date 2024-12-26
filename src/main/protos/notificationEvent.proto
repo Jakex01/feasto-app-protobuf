@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+package org.shared;
+option java_outer_classname = "NotificationEventWrapper";
+option optimize_for = SPEED;
+
+message NotificationEvent {
+  string email = 1;
+  bytes pdfContent = 2;
+}

@@ -1,0 +1,55 @@
+plugins {
+    id 'java'
+    id "com.google.protobuf" version "0.9.4"
+}
+
+group = 'org.shared'
+version = '6.4.1'
+
+repositories {
+    mavenCentral()
+}
+
+protobuf {
+    protoc {
+        artifact = "com.google.protobuf:protoc:4.28.2"
+    }
+    generateProtoTasks {
+        all().each { task ->
+            task.builtins {
+                java {
+                    outputSubDir = '' // Standardowy podkatalog
+                }
+            }
+        }
+    }
+    generatedFilesBaseDir = "$buildDir/generated/source/proto"
+}
+
+sourceSets {
+    main {
+        proto {
+            srcDir 'src/main/protos' // Lokalizacja plików .proto
+        }
+        java {
+            // Dodajemy wygenerowany kod jako źródła
+            srcDir "$buildDir/generated/source/proto/main/java"
+        }
+    }
+}
+
+dependencies {
+    implementation 'com.google.protobuf:protobuf-java:4.28.2'
+    testImplementation platform('org.junit:junit-bom:5.9.1')
+    testImplementation 'org.junit.jupiter:junit-jupiter'
+}
+
+test {
+    useJUnitPlatform()
+}
+
+jar {
+    archiveBaseName = 'protobuf-shared-data'
+    archiveVersion = '6.4.1'
+    from sourceSets.main.output
+}

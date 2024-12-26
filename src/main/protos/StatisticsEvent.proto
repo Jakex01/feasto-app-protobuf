@@ -1,0 +1,35 @@
+syntax = "proto3";
+
+package org.shared;
+
+import "google/protobuf/timestamp.proto";
+import "OrderStatus.proto";
+option java_outer_classname = "StatisticsEventWrapper";
+option optimize_for = SPEED;
+
+
+
+enum PaymentStatus {
+  PAYMENT_SUCCESSFUL = 0;
+  PAYMENT_FAILED = 1;
+  PAYMENT_PROCESSING = 2;
+}
+
+enum DeliveryOption {
+  PICK_UP = 0;
+  DELIVERY = 1;
+}
+
+message StatisticsEvent {
+  int64 id = 1;
+  int64 restaurantId = 2;
+  int64 orderId = 3;
+  string userEmail = 4;
+  google.protobuf.Timestamp createDate = 5;
+  google.protobuf.Timestamp finishedDate = 6;
+  double totalPrice = 7;
+  double expectedDeliveryTimeInMinutes = 8;
+  OrderStatus orderStatus = 9;
+  PaymentStatus paymentStatus = 10;
+  DeliveryOption deliveryOption = 11;
+}

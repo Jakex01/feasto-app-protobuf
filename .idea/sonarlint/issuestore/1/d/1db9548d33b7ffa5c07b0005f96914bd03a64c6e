@@ -1,0 +1,46 @@
+
+u
+java:S2293­"YReplace the type specification in this constructor call with the diamond operator ("<>").(‚…‚Ïüÿÿÿÿ
+K
+java:S1066Ú"/Merge this if statement with the enclosing one.(èú¯úÿÿÿÿ
+g	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆÓ¡€
+l	java:S117¡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹¤¢öøÿÿÿÿ
+u
+java:S1488Ì"_Immediately return this expression instead of assigning it to the temporary variable "builder".(«‰Ÿ~
+œ
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ƒ°‡ıÿÿÿÿ
+J
+java:S1172"/Remove this unused method parameter "registry".(•óÊõÿÿÿÿÿ
+j	java:S116a"URename this field "bitField0_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö»³Ä
+o	java:S116d"URename this field "userEmail_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô“Ûõüÿÿÿÿ
+q	java:S116Š"VRename this field "createDate_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛºĞÎıÿÿÿÿ
+
+java:S4144ä"cUpdate this method so that its implementation is not identical to "getDefaultInstance" on line 704.(¸ºÉøıÿÿÿÿ
+G
+java:S1948d",Make "userEmail_" transient or serializable.(Ô“Ûõüÿÿÿÿ
+r
+java:S3077d"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(Ô“Ûõüÿÿÿÿ
+a
+java:S6201l"FReplace this instanceof check and cast with 'instanceof String string'(õõáÀÿÿÿÿÿ
+a
+java:S6201~"FReplace this instanceof check and cast with 'instanceof String string'(õõáÀÿÿÿÿÿ
+W
+java:S1126İ"AReplace this if-then-else statement by a single return statement.(ûÿ½%
+h
+java:S3252Ë"QUse static access with "com.google.protobuf.AbstractMessage" for "BuilderParent".(ÔÈı¾
+k	java:S116ô"URename this field "bitField0_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö»³Ä
+p	java:S116ö"URename this field "userEmail_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú¨Š™şÿÿÿÿ
+q	java:S116¾"VRename this field "createDate_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛºĞÎıÿÿÿÿ
+x	java:S116À"]Rename this field "createDateBuilder_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒÆôÏıÿÿÿÿ
+h
+java:S3252é"QUse static access with "com.google.protobuf.AbstractMessage" for "BuilderParent".(ÔÈı¾
+z
+java:S6201­"^Replace this instanceof check and cast with 'instanceof EmailReminderEvent emailreminderevent'(—«åùÿÿÿÿ
+W	java:S125ë"<This block of commented-out lines of code should be removed.(““ùûÿÿÿÿ
+R	java:S125ì"<This block of commented-out lines of code should be removed.(¯Ë¶‡
+b
+java:S6201ı"FReplace this instanceof check and cast with 'instanceof String string'(Á¿Ö¨üÿÿÿÿ
+]
+java:S6201"FReplace this instanceof check and cast with 'instanceof String string'(‡ñ÷
+I
+java:S6126ø"2Replace this String concatenation with Text block.(¥¯˜ê
